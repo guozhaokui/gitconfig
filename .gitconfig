@@ -1,0 +1,9 @@
+[user]
+	name = guozhaokui
+	email = guozhaokuiwang@gmail.com
+[gui]
+	recentrepo = C:/Users/gzk/.ssh/ttt/a
+[core]
+	autocrlf = false
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset-%C(yellow)%d%Creset %s %Cgreen%cr %C(bold blue)<%an>%Creset' --abbrev-commit
